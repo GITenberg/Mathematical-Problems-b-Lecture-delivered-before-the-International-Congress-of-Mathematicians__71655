@@ -5,6 +5,9 @@ contributor:
     agent_name: Newson, Mary Frances Winston
     gutenberg_agent_id: '56316'
     url: http://www.gutenberg.org/2009/agents/56316
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hilbert, David
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7340
     wikipedia: https://en.wikipedia.org/wiki/David_Hilbert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71655#Mathematical-Problems-b-Lecture-delivered-before-the-International-Congress-of-Mathematicians_
 gutenberg_issued: '2023-09-15'
 identifiers:
   gutenberg: '71655'
